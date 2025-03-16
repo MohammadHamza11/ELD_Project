@@ -33,7 +33,7 @@ This Django application helps truck drivers plan their trips while adhering to F
 ### Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/trucking-hos-planner.git
+   git clone https://github.com/MohammadHamza11/trucking-hos-planner.git
    cd trucking-hos-planner
    ```
 
